@@ -2,7 +2,7 @@ from telegram.ext import CommandHandler, updater, MessageHandler, Filters
 from deep_translator import GoogleTranslator
 from langdetect import detect
 
-Token = ''
+Token = '' #Token is omitted due to security issues
 
 updater = updater.Updater(Token, use_context=True)
 dispatcher = updater.dispatcher
