@@ -6,4 +6,4 @@ This a translator bot for telegram to translate English to Persian an inverse!
 
 Libraries and Packages that have been used are available in `requirements.txt` file.
 
-The logo is generate by *Bing AI*!
+The logo is generate by *Bing AI* and also has been edited by myself!
