@@ -2,7 +2,7 @@ from telegram.ext import CommandHandler, updater, MessageHandler, Filters
 from deep_translator import GoogleTranslator
 from langdetect import detect
 
-Token = '6342917337:AAGn42lBVdEz6xL9RWQJHyFL_b4kLxeCohU'
+Token = '' #insert you bot token here
 
 updater = updater.Updater(Token, use_context=True)
 dispatcher = updater.dispatcher
